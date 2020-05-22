@@ -31,6 +31,13 @@ git clone https://github.com/msaifa/simpel-crud-csharp.git
 ```
 atau bisa mengunjungi repo pada : [simpel-crud](https://github.com/msaifa/simpel-crud-csharp)
 
+### Tambahan - Program Kasir Koperasi
+Aplikasi buatan saya menggunakan bahasa VB.net dengan tema kasir koperasi. dengan dukungan program visual studio dan microsoft server.Untuk source code bisa clone repostory : 
+```bash
+git clone https://github.com/msaifa/koperasi-smk-jaya.git
+```
+atau bisa mengunjungi repo pada : [Koperasi-SMK-Jaya](https://github.com/msaifa/koperasi-smk-jaya)
+
 ## Credits
 - Thanks to Allah
 - Thanks to My Parents
