@@ -1,7 +1,10 @@
 # tugas-pemvis
 Repo untuk Kumpulan Tugas Pemrograman Visual. 
-Fakultas Teknik 
-Universitas Negeri Surabaya
+
+###### Nama : M SAIF ALIKHAN
+###### KELAS: TI 2018 A
+###### NIM  : 18051204022
+###### Fakultas Teknik Universitas Negeri Surabaya
 
 ### 1. Tugas Calculator
 Pada tugas ini Saya menggunakan KaluklatorKu. Untuk source code bisa clone repostory : 
